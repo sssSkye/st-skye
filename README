@@ -11,7 +11,7 @@ In order to build st you need the Xlib header files.
 
 Installation
 ------------
-Run the following (You might need root access):
+Installation is as simple as the following:
 
     make clean install
 
